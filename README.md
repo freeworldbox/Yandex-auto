@@ -1,5 +1,4 @@
 # Yandex-auto
-Тестовый проект "по курсу "Тонкости верстки"
 ## Тестовый проект ["Письмо из Яндекса"](https://freeworldbox.github.io/Yandex-auto/) по курсу ["Тонкости верстки"](https://www.coursera.org/learn/tonkosti-verstki)
 ***
 ![Альтернативный текст](https://github.com/freeworldbox/Yandex-auto/blob/main/yandex_auto_1920_example.png)
