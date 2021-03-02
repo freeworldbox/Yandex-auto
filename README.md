@@ -1,5 +1,5 @@
-# Yandex-auto
-## Тестовый проект ["Письмо из Яндекса"](https://freeworldbox.github.io/Yandex-auto/) по курсу ["Тонкости верстки"](https://www.coursera.org/learn/tonkosti-verstki)
+#  ["Yandex-auto"](https://freeworldbox.github.io/Yandex-auto/)
+## Тестовый проект "Письмо из Яндекса" по курсу ["Тонкости верстки"](https://www.coursera.org/learn/tonkosti-verstki)
 ***
 ![Альтернативный текст](https://github.com/freeworldbox/Yandex-auto/blob/main/yandex_auto_1920_example.png)
 ## Необходимо сверстать предоставленный макет, соблюдая следующие условия:
