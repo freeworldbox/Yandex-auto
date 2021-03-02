@@ -1,4 +1,4 @@
-#  ["Yandex-auto"](https://freeworldbox.github.io/Yandex-auto/)
+#  [Yandex-auto](https://freeworldbox.github.io/Yandex-auto/)
 ## Тестовый проект "Письмо из Яндекса" по курсу ["Тонкости верстки"](https://www.coursera.org/learn/tonkosti-verstki)
 ***
 ![Альтернативный текст](https://github.com/freeworldbox/Yandex-auto/blob/main/yandex_auto_1920_example.png)
